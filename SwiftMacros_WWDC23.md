@@ -12,6 +12,7 @@ Title: Swift Macros
 - The expansion function of the macro constructs a tuple syntax and returns it as `ExprSyntax`.
 ```swift
 
+
 let a = 17
 let b = 25
 
